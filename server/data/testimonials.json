@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Timothy Hawkes",
+    "company": "The King's School",
+    "role": "Headmaster",
+    "quote": "Lundy Building Group's attention to detail and respect for our heritage buildings has been exemplary. Their team consistently delivers quality workmanship while maintaining the school's operational needs. We've worked with them for over a decade and they remain our trusted construction partner."
+  },
+  {
+    "id": "2",
+    "name": "Jennifer Robertson",
+    "company": "Queenwood School for Girls",
+    "role": "Director of Operations",
+    "quote": "Working with LBG has been a pleasure from start to finish. Their project management expertise and commitment to safety made our major renovation seamless. The performing arts center they delivered has exceeded all expectations and was completed on time and within budget."
+  },
+  {
+    "id": "3",
+    "name": "Michael Chen",
+    "company": "St. Ignatius' College Riverview",
+    "role": "Facilities Manager",
+    "quote": "The professionalism and expertise Lundy Building Group brings to every project is outstanding. They understand the unique challenges of working in an active school environment and always minimize disruption to our students and staff. Their communication throughout projects is excellent."
+  },
+  {
+    "id": "4",
+    "name": "Father James Morrison",
+    "company": "St. Mary's Cathedral",
+    "role": "Parish Priest",
+    "quote": "The restoration of our historic chapel required sensitivity, skill, and deep respect for its heritage significance. Lundy Building Group demonstrated all of these qualities and more. The result is a beautiful restoration that honors the building's past while serving our community's future needs."
+  },
+  {
+    "id": "5",
+    "name": "Sarah Williams",
+    "company": "Knox Grammar School",
+    "role": "Business Manager",
+    "quote": "LBG has completed multiple projects for Knox over the years, from new builds to renovations. Their consistent quality, safety standards, and ability to deliver complex projects on schedule make them an invaluable partner. We highly recommend their services."
+  },
+  {
+    "id": "6",
+    "name": "David Thompson",
+    "company": "Strata Plan SP12345",
+    "role": "Strata Manager",
+    "quote": "The remedial works completed by Lundy Building Group resolved long-standing waterproofing issues in our complex. Their systematic approach, clear communication with owners, and warranty-backed work gave everyone confidence. The building is now protected for years to come."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "kings-school-chapel",
+    "title": "The Kings School Chapel Restoration",
+    "summary": "Heritage-sensitive restoration of historic chapel including structural repairs, stonework restoration, and modernized facilities.",
+    "challenge": "The chapel required extensive restoration work while remaining operational for school services. The project involved delicate stonework repairs, structural reinforcement, and modern facility upgrades, all while preserving the building's heritage character and minimizing disruption to the school community.",
+    "approach": "We implemented a carefully phased approach, scheduling intensive work during school holidays. Our team collaborated closely with heritage consultants, the school, and local authorities. Specialized craftspeople were engaged for stonework and joinery restoration, ensuring authentic techniques and materials were used throughout.",
+    "outcome": "The chapel was successfully restored to its former glory while incorporating modern safety and accessibility features. The project was completed on time and within budget, earning commendation from Heritage NSW and deep appreciation from The Kings School community.",
+    "stats": {
+      "duration": "18 months",
+      "budgetRange": "$2M - $5M",
+      "location": "Parramatta, NSW"
+    },
+    "images": [
+      "/assets/stock_images/church_cathedral_rel_c5528eca.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg"
+    ],
+    "serviceTags": ["Religious Precincts", "Heritage"],
+    "featured": true
+  },
+  {
+    "slug": "st-ignatius-science",
+    "title": "St. Ignatius' Riverview Science Block",
+    "summary": "New state-of-the-art science facility with specialized laboratories and sustainable design features.",
+    "challenge": "The brief called for a state-of-the-art science facility that would inspire students while integrating with the school's historic campus. The building required specialized laboratory infrastructure, safety systems, and sustainable design features, all delivered within a tight construction timeline.",
+    "approach": "Our team coordinated closely with educators and science specialists to design laboratories that support modern teaching methods. We prioritized sustainable building practices, incorporating solar panels, rainwater harvesting, and natural ventilation. Construction was carefully scheduled to minimize impact on school operations.",
+    "outcome": "A cutting-edge science facility that has become a centerpiece of the campus, featuring 12 specialized laboratories, collaborative learning spaces, and an integrated sustainability showcase. The building achieved a 5-star energy rating and was completed ahead of schedule.",
+    "stats": {
+      "duration": "24 months",
+      "budgetRange": "$5M - $10M",
+      "location": "Lane Cove, NSW"
+    },
+    "images": [
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/church_cathedral_rel_c5528eca.jpg"
+    ],
+    "serviceTags": ["Educational Institutions", "New Build"],
+    "featured": true
+  },
+  {
+    "slug": "queenwood-performing-arts",
+    "title": "Queenwood School Performing Arts Centre",
+    "summary": "Modern performing arts facility with acoustically optimized theatre, rehearsal spaces, and music studios.",
+    "challenge": "Designing and building a world-class performing arts center that would meet professional acoustic standards while serving educational needs. The project required specialized theatrical systems, acoustic engineering, and integration with the existing school campus.",
+    "approach": "We engaged leading acoustic consultants and theatrical systems designers from the project's inception. The construction methodology prioritized precise acoustic isolation and specialized structural requirements for the suspended theatre ceiling. Close collaboration with the school's arts department ensured every performance space met their specific needs.",
+    "outcome": "An exceptional performing arts center featuring a 400-seat theatre, music rehearsal studios, drama workshops, and exhibition spaces. The facility has hosted professional performances and school productions to critical acclaim, significantly enhancing the school's arts program.",
+    "stats": {
+      "duration": "20 months",
+      "budgetRange": "$5M - $10M",
+      "location": "Mosman, NSW"
+    },
+    "images": [
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/church_cathedral_rel_c5528eca.jpg"
+    ],
+    "serviceTags": ["Educational Institutions", "Specialized"],
+    "featured": true
+  },
+  {
+    "slug": "knox-library",
+    "title": "Knox Grammar School Library Extension",
+    "summary": "Contemporary library extension blending with existing heritage architecture, featuring flexible learning spaces and digital integration.",
+    "challenge": "Extending a heritage-listed library while maintaining architectural harmony and meeting modern educational requirements for collaborative learning, quiet study, and digital resources.",
+    "approach": "Working with heritage architects and educational consultants, we designed an extension that respects the original building while providing contemporary learning environments. Construction was phased to maintain library operations throughout the project.",
+    "outcome": "A seamless integration of old and new, providing flexible learning spaces that serve both traditional research and modern collaborative study. The extension doubled the library's capacity while preserving its heritage character.",
+    "stats": {
+      "duration": "16 months",
+      "budgetRange": "$2M - $5M",
+      "location": "Wahroonga, NSW"
+    },
+    "images": [
+      "/assets/stock_images/modern_commercial_bu_e76b3d7e.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg"
+    ],
+    "serviceTags": ["Educational Institutions", "Extension"],
+    "featured": false
+  },
+  {
+    "slug": "waverley-sports",
+    "title": "Waverley College Sports Facility",
+    "summary": "Multi-purpose sports hall with modern amenities, change rooms, and community access features.",
+    "challenge": "Building a versatile sports facility to serve school programs, inter-school competitions, and community use, all while maintaining the college's operational schedule.",
+    "approach": "Construction was timed to coincide with school breaks where possible. We incorporated flexible space design allowing the facility to host multiple sports and events, with professional-grade equipment and accessibility features.",
+    "outcome": "A modern sports facility that serves as the hub for the college's sporting programs and provides valuable community facilities. The project was delivered on time for the start of the academic year.",
+    "stats": {
+      "duration": "14 months",
+      "budgetRange": "$5M - $10M",
+      "location": "Waverley, NSW"
+    },
+    "images": [
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/modern_commercial_bu_e76b3d7e.jpg"
+    ],
+    "serviceTags": ["Educational Institutions", "New Build"],
+    "featured": false
+  },
+  {
+    "slug": "strata-remediation",
+    "title": "Strata Building Remediation Project",
+    "summary": "Comprehensive waterproofing and facade restoration for 120-unit residential complex, resolving long-standing defects.",
+    "challenge": "Addressing extensive water ingress and building defects across a large residential complex while residents remained in occupation, requiring careful coordination and communication with the strata committee and individual owners.",
+    "approach": "Conducted thorough building assessment and developed a comprehensive remediation plan. Work was staged to minimize disruption, with clear communication protocols established. We provided regular updates to the strata committee and individual owners throughout the project.",
+    "outcome": "Successfully resolved all major building defects with warranty-backed work. The building is now protected from water damage with restored facades and improved building envelope performance. High satisfaction from owners and strata management.",
+    "stats": {
+      "duration": "22 months",
+      "budgetRange": "$2M - $5M",
+      "location": "North Sydney, NSW"
+    },
+    "images": [
+      "/assets/stock_images/building_renovation__8b60fcc2.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg"
+    ],
+    "serviceTags": ["Remedial Works", "Waterproofing"],
+    "featured": false
+  }
+]

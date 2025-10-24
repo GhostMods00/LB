@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "educational-institutions",
+    "title": "Educational Institutions",
+    "intro": "Specialized construction and maintenance services for schools and universities, delivered with minimal disruption to learning environments.",
+    "description": "For nearly five decades, Lundy Building Group has been the trusted construction partner for Sydney's leading educational institutions. We understand the unique challenges of working in active learning environments and deliver projects with minimal disruption to students, staff, and operations.",
+    "benefits": [
+      "Minimal disruption to school operations with strategic scheduling",
+      "Enhanced safety protocols for student and staff protection",
+      "Experience with heritage and modern educational facilities",
+      "Long-term maintenance and support programs",
+      "Specialized acoustic and environmental considerations",
+      "Fast-track delivery for vacation period projects"
+    ],
+    "heroImage": "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+    "gallery": [
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/church_cathedral_rel_c5528eca.jpg"
+    ],
+    "icon": "building-2"
+  },
+  {
+    "slug": "religious-precincts",
+    "title": "Religious Precincts",
+    "intro": "Sensitive restoration and construction for churches, chapels, and religious facilities with respect for heritage and community values.",
+    "description": "Our work with religious buildings requires sensitivity, respect, and specialized expertise. We've successfully completed restorations and construction projects for churches, chapels, and religious facilities across Sydney, preserving their heritage while enhancing their functionality for modern congregations.",
+    "benefits": [
+      "Heritage conservation and restoration expertise",
+      "Respectful approach to sacred spaces and artifacts",
+      "Experience with listed and significant buildings",
+      "Liturgical and functional requirements understanding",
+      "Consultation with heritage authorities and consultants",
+      "Community-focused project delivery"
+    ],
+    "heroImage": "/assets/stock_images/church_cathedral_rel_c5528eca.jpg",
+    "gallery": [
+      "/assets/stock_images/church_cathedral_rel_c5528eca.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg"
+    ],
+    "icon": "award"
+  },
+  {
+    "slug": "commercial-projects",
+    "title": "Commercial Projects",
+    "intro": "Full-service project management for commercial developments, from initial concept through to final handover.",
+    "description": "From concept to completion, we deliver commercial construction projects that meet modern business needs while maintaining the highest standards of quality and safety. Our project management expertise ensures on-time, on-budget delivery of office fit-outs, retail spaces, and mixed-use developments.",
+    "benefits": [
+      "Comprehensive project management from design to handover",
+      "Value engineering and cost optimization",
+      "Experienced in commercial fit-outs and refurbishments",
+      "Minimal disruption to ongoing business operations",
+      "Quality assurance and defects management",
+      "Long-term building maintenance solutions"
+    ],
+    "heroImage": "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+    "gallery": [
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/building_renovation__8b60fcc2.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg"
+    ],
+    "icon": "users"
+  },
+  {
+    "slug": "remedial-works",
+    "title": "Remedial Works",
+    "intro": "Expert building remediation, waterproofing, and structural repairs to restore and protect your property investment.",
+    "description": "Expert remediation services to protect and restore your property investment. Our remedial works division specializes in building defects, waterproofing, structural repairs, and facade restoration, using the latest techniques and materials to ensure lasting solutions.",
+    "benefits": [
+      "Comprehensive building inspections and reporting",
+      "Waterproofing and leak detection specialists",
+      "Structural repairs and reinforcement",
+      "Facade restoration and refurbishment",
+      "Strata and body corporate experience",
+      "Warranty-backed remediation solutions"
+    ],
+    "heroImage": "/assets/stock_images/building_renovation__8b60fcc2.jpg",
+    "gallery": [
+      "/assets/stock_images/building_renovation__8b60fcc2.jpg",
+      "/assets/stock_images/commercial_office_bu_8457b404.jpg",
+      "/assets/stock_images/modern_school_buildi_b4608d8d.jpg"
+    ],
+    "icon": "shield"
+  }
+]

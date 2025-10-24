@@ -1,0 +1,20 @@
+{
+  "name": "Lundy Building Group",
+  "tagline": "Excellence in Construction Since 1975",
+  "abn": "[ABN will be provided by client]",
+  "phone": "0417 031 847",
+  "email": "info@lundybuilding.com.au",
+  "address": {
+    "street": "Suite 108, 7-11 Clarke Street",
+    "suburb": "Crows Nest",
+    "state": "NSW",
+    "postcode": "2065"
+  },
+  "hours": "Monday - Friday: 7:00 AM - 5:00 PM",
+  "socials": {
+    "facebook": "https://facebook.com",
+    "linkedin": "https://linkedin.com",
+    "instagram": ""
+  },
+  "mapEmbedUrl": ""
+}
